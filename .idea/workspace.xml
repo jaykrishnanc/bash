@@ -3,27 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="96696296-9b8a-4b69-be83-0998e180c83d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array1.sh" afterPath="$PROJECT_DIR$/array1.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array2.sh" afterPath="$PROJECT_DIR$/array2.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/caseconstruct.sh" afterPath="$PROJECT_DIR$/caseconstruct.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evalex.sh" afterPath="$PROJECT_DIR$/evalex.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fruits.txt" afterPath="$PROJECT_DIR$/fruits.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functionex1.sh" afterPath="$PROJECT_DIR$/functionex1.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functionwithparams.sh" afterPath="$PROJECT_DIR$/functionwithparams.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/getopts_command.sh" afterPath="$PROJECT_DIR$/getopts_command.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parametercmd.sh" afterPath="$PROJECT_DIR$/parametercmd.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/printfexample.sh" afterPath="$PROJECT_DIR$/printfexample.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readex1.sh" afterPath="$PROJECT_DIR$/readex1.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readex2.sh" afterPath="$PROJECT_DIR$/readex2.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readex3.sh" afterPath="$PROJECT_DIR$/readex3.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sedregex.sh" afterPath="$PROJECT_DIR$/sedregex.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/selectconstruct.sh" afterPath="$PROJECT_DIR$/selectconstruct.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/setcommand.sh" afterPath="$PROJECT_DIR$/setcommand.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/setcommandex.sh" afterPath="$PROJECT_DIR$/setcommandex.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unsetcomm.sh" afterPath="$PROJECT_DIR$/unsetcomm.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untilloop.sh" afterPath="$PROJECT_DIR$/untilloop.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wait5sec.sh" afterPath="$PROJECT_DIR$/wait5sec.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/whileloop.sh" afterPath="$PROJECT_DIR$/whileloop.sh" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -347,7 +326,7 @@
       <option name="presentableId" value="Default" />
       <updated>1499419748525</updated>
       <workItem from="1499419750110" duration="9887000" />
-      <workItem from="1499438061262" duration="11237000" />
+      <workItem from="1499438061262" duration="11249000" />
     </task>
     <task id="LOCAL-00001" summary="words">
       <created>1499484737324</created>
@@ -356,11 +335,18 @@
       <option name="project" value="LOCAL" />
       <updated>1499484737324</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="words">
+      <created>1499486455108</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1499486455108</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21124000" />
+    <option name="totallyTimeSpent" value="21136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
